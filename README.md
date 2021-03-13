@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoannaMakary
+- 👀 I’m interested in Full-Stack Development.
+- 🌱 I’m continuously learning the best & modern practices in development.
+- 💞️ I’m looking to work full-time for a company that I love & believe in.
+- 📫 How to reach me: https://joannamakary.com
